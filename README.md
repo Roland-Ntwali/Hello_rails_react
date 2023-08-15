@@ -70,7 +70,7 @@ In order to run this project you need [Ruby](https://www.ruby-lang.org/en/), [Ra
 Clone this repository to your desired folder:
 
 ```sh
-  git clone https://github.com/roland-ntwali/hello-rails-react.git
+  git clone https://github.com/roland-ntwali/Hello-rails-react.git
 ```
 
 ```sh
@@ -121,7 +121,7 @@ To run the project, execute the following command:
 
 ## ✍️ Author <a name="authors"></a>
 
-👤 **ERoland Ntwali**
+👤 **Roland Ntwali**
 
 - GitHub: [@githubhandle](https://github.com/Roland-Ntwali)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/roland-ntwali/)
