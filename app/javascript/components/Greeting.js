@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import { useSelector, useDispatch } from "react-redux";
-import { getGreetings } from "../controllers/greetingsSlice";
+import { getGreetings } from "../redux/greetingsSlice";
 
 export default function Random() {
   const dispatch = useDispatch();
